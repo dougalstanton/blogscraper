@@ -1,0 +1,10 @@
+BLOGSCRAPER
+
+Parse the generated HTML from a WordPress blog and write
+the resulting files to whatever format seems best.
+
+Created to save the contents of a blog which disappeared
+from the internet, and only the static contents existed.
+
+It should be possible to reinsert the resulting RSS files
+into another WordPress instance.
